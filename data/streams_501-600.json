@@ -1,11 +1,68 @@
 [
   {
+    "orgId": 519,
+    "index": 0,
+    "name": "新闻综合频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/0d4aa29109194c9d8da23cc044614538/playlist.m3u8?k=6e14e6abed0545ded96e97ced988c17c&t=1780919453",
+    "desc": "新闻综合频道",
+    "id": 18,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "新闻综合频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/8203f05252f2875d46a5d74ec804cf43.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0xOA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 519,
+    "index": 1,
+    "name": "经济生活频道",
+    "icon": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "logo": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=368c97b8753b8c28bc6fde226907e0f5&t=1780919453",
+    "desc": "经济生活频道",
+    "id": 20,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "经济生活频道",
+      "image": "https://img11.iqilu.com/179/2019/12/10/b1a10dda1e3a2b59265641d0a20a10b7.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0yMA.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
+    "orgId": 519,
+    "index": 2,
+    "name": "图文频道",
+    "icon": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "logo": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+    "stream": "https://alivealone302.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670/playlist.m3u8?k=368c97b8753b8c28bc6fde226907e0f5&t=1780919453",
+    "desc": "图文频道",
+    "id": 22,
+    "state": 1,
+    "cateid": 0,
+    "program": 1,
+    "share": {
+      "title": "图文频道",
+      "image": "https://img11.iqilu.com/179/2020/12/30/0ea68ecfb36ae47e4a6f78f03b40fbfd.jpg",
+      "url": "https://app.litenews.cn/share/dHZsLTUxOS0yMg.html",
+      "desc": "点击观看精彩节目"
+    }
+  },
+  {
     "orgId": 537,
     "index": 0,
     "name": "新闻综合",
     "icon": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
     "logo": "https://img11.litenews.cn/537/2025/09/22/1cc35a10c39141969abeaa0a4a748d2b.png",
-    "stream": "https://alivealone302.litenews.cn/537/202304_1651887564107485184/playlist.m3u8?k=e6d68d5611685c1bc6800d9abc2293ee&t=1775892546",
+    "stream": "https://alivealone302.litenews.cn/537/202304_1651887564107485184/playlist.m3u8?k=c647fc7633cd6ab979e57b9e32b8b965&t=1780919460",
     "desc": "新闻综合频道",
     "id": 1,
     "state": 1,
@@ -24,7 +81,7 @@
     "name": "公共频道",
     "icon": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
     "logo": "https://img11.litenews.cn/537/2025/09/22/71f4e38ba08f47ec8b04a15439db5b96.png",
-    "stream": "https://alivealone302.litenews.cn/537/202304_1651887564182982656/playlist.m3u8?k=74a64588453f1b98b1bee55798dca8c9&t=1775892546",
+    "stream": "https://alivealone302.litenews.cn/537/202304_1651887564182982656/playlist.m3u8?k=236406d9ae16406430c6aea148c26fb7&t=1780919460",
     "desc": "公共频道",
     "id": 3,
     "state": 1,
@@ -43,7 +100,7 @@
     "name": "科教频道",
     "icon": "https://img11.litenews.cn/537/2023/05/03/f582654a7005568a9ad9bbbe823a1022.png",
     "logo": "https://img11.litenews.cn/537/2025/09/22/4fcb1cf8edc84b9e90a75903f2961747.png",
-    "stream": "https://alivealone302.litenews.cn/537/202305_1654684492679512064/playlist.m3u8?k=751434b606343646d07e5f353c32b308&t=1775892546",
+    "stream": "https://alivealone302.litenews.cn/537/202305_1654684492679512064/playlist.m3u8?k=6066ee517024d21542cf5990495e36a8&t=1780919460",
     "desc": "东营科教频道",
     "id": 7,
     "state": 1,
